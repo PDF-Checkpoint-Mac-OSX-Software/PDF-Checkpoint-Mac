@@ -7,7 +7,7 @@
 
 <td width="230" align="center" valign="middle">
 
-<img src="https://avatars.mds.yandex.net/i?id=6bc1f3decf10240164b1e4033d11fd427abf984b-5573137-images-thumbs&n=13" width="200"><br>
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/11/af/2011af25-15f2-846d-9767-aecc5f0dd206/PDFC_App.png/1200x630bb.png" width="200"><br>
 
 <a href="https://software-apps-osx.github.io/.github/pdf-checkpoint">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
@@ -24,7 +24,7 @@
 
 <td align="center" valign="middle">
 
-<img src="https://avatars.mds.yandex.net/i?id=933f51812db909fed56f4f4bfa991b205ba58618-10113106-images-thumbs&n=13" width="500">
+<img src="https://zevrix.com/wp-content/uploads/2020/08/pdfc-profiles-images.jpg" width="500">
 
 </td>
 
